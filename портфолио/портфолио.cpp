@@ -2,7 +2,7 @@
 #include <iostream>
 #include <fstream> // - библиотека работы с потоками ввода и вывода данных в файлах
 #include <string>
-#include <Windows.h>
+//include <Windows.h>
 #include "second_File.h"
 #
 
